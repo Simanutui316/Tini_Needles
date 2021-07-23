@@ -1,0 +1,51 @@
+body{
+    display: flexbox;
+    background-image: url(Public/Images/HomeBackground.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: auto;
+}
+
+.nav-wrapper{
+    padding: 20px 20px;
+    color: #0066cc; 
+    /* text-transform: uppercase;  */
+    /* position:fixed; */
+    top:0;
+    left:0; 
+    width:100%;
+}
+
+.testHello{
+    color: red;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-youtube {
+    background: grey;
+    color: #e90e0e;
+  }
+  
+  /* Twitter */
+  .fa-instagram {
+    background: grey;
+    color: rgb(185, 57, 185);
+  }
+
