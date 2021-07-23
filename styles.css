@@ -39,13 +39,13 @@ body{
   
   /* Facebook */
   .fa-youtube {
-    background: grey;
+    background: #343a40;
     color: #e90e0e;
   }
   
   /* Twitter */
   .fa-instagram {
-    background: grey;
+    background: #343a40;
     color: rgb(185, 57, 185);
   }
 
